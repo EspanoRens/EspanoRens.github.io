@@ -558,7 +558,7 @@ p {
 #about {
   width: 100%;
   height: auto;
-  background: url("../img/contacts.jpg") repeat scroll center center/cover;
+  background: #f7f7f7;
   padding-top: 120px;
 }
 
