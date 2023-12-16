@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   background: #ffffff;
-  color: #000;
+  color: #fff;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -33,7 +33,7 @@ h6 {
 }
 
 h2 {
-  color: #292929;
+  color: #fff;
   font-weight: 600;
 }
 
@@ -57,7 +57,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #000;
+  color: #fff;
   line-height: 28px;
 }
 
@@ -558,7 +558,7 @@ p {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: #000;
   padding-top: 120px;
 }
 
@@ -644,6 +644,7 @@ p {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
+  background: #000;
 }
 
 #portfolio #portfolio-flters {
@@ -663,14 +664,14 @@ p {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+  color: #fff;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #fff;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -802,7 +803,7 @@ p {
 #journal-blog {
   height: auto;
   width: 100%;
-  background: #f7f7f7;
+  background: #000;
   padding-bottom: 60px;
   position: relative;
 }
@@ -858,6 +859,7 @@ p {
 #contact {
   height: auto;
   width: 100%;
+  background: #000;
 }
 
 .contact-details {
